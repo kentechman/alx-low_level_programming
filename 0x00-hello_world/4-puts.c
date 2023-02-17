@@ -2,7 +2,7 @@
 /**
  * main-where the main function is and code
  * puts()function- allows printing of string as it is
- * return- returns value to main function
+ * return (0)- returns value to main function
  */
 int main(void)
 {
