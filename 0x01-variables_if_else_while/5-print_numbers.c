@@ -9,7 +9,7 @@ int base;
 
 for (base = 0; base <= 9; base++)
 {
-printf("%d\n", base);
+printf("%d", base);
 }
 return (0);
 }
