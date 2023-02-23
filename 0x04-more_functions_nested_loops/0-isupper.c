@@ -5,11 +5,10 @@
  * @c: character to be checked
  * Return: 1 or 0
  */
-int _isupper(int c)
+int _isupper(int alp)
 {
-int c;
 
-if (c >= 65 && c <= 90)
+if (alp >= 65 && alp <= 90)
 {
 return (1);
 }
