@@ -1,4 +1,5 @@
 #include "main.h"
+#include <math.h>
 #include <stdio.h>
 /**
  * main - prints the largest facter of 612852475143
@@ -20,6 +21,6 @@ int main(void)
 		}
 
 	}
-	printf("%d\n", maxf);
+	printf("%ld\n", maxf);
 	return (0);
 }
