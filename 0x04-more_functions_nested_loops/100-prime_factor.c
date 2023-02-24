@@ -7,11 +7,11 @@
  */
 int main(void)
 {
-	long x, maxf;
+	long x, maxf, square;
 	long number;
 
 	number = 612852475143;
-	double square = sqrt(number);
+	square = sqrt(number);
 
 	for (x = 1; x <= square; x++)
 	{
