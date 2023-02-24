@@ -5,7 +5,8 @@
  */
 void more_numbers(void)
 {
-int x, y;
+int x;
+int y;
 
 y = 0;
 while (y <= 9)
